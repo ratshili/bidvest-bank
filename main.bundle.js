@@ -1454,7 +1454,7 @@ var BankingProvidersService = /** @class */ (function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return environment; });
 var environment = {
-    production: false,
+    production: true,
     firebase: {
         apiKey: "AIzaSyDj0kkVipNV-TCumm43_GvZYs5FDIJ5loo",
         authDomain: "bidvest-bank-app.firebaseapp.com",
